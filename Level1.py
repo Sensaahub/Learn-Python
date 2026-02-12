@@ -13,5 +13,5 @@ is_active = True #Boolean
 print("---STATUS PEMAIN---")
 print("Nama hero: ", nama_hero)
 print("Level: ",level)
-print("Power: ,", power)
+print("Power: ", power)
 print("Status Aktif: ", is_active)
